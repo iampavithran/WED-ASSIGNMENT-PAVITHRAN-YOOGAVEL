@@ -1,0 +1,36 @@
+body{
+  background-color:#C4E3FA  ;
+}
+
+button1{
+  background-color:#ADE6CC ;
+  border-radius: 12px;
+  color: black;
+  padding: 10px 24px;
+  text-align: center;
+  font-size: 14px;
+}
+
+button2{
+  background-color:#79A5E3 ;
+  border-radius: 12px;
+  color: black;
+  padding: 10px 24px;
+  text-align: center;
+  font-size: 14px;
+}
+
+button3{
+  background-color:#6CF38F ;
+  border-radius: 12px;
+  color: black;
+  padding: 10px 24px;
+  text-align: center;
+  font-size: 50px;
+
+}
+
+p{
+  font-size: 60px;
+  color: black;
+}
